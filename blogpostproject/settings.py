@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'blogpostapp.apps.BlogpostappConfig',
     'usersapp.apps.UsersappConfig',
     'crispy_forms',
+    'jazzmin',
     'crispy_bootstrap4',
     'django.contrib.admin',
     'django.contrib.auth',
